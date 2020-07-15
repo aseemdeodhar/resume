@@ -1,19 +1,9 @@
----
-title: "Aseem Deodhar"
-subtitle: "Resume"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
-  word_document: default
----
+# Aseem Deodhar
+## Resume
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ----
 
-<div style="text-align: center"> Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar<!-- -->@gmail.com | www.aseemdeodhar.com </div>
+Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.com
 
 ----
 
