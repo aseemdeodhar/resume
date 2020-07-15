@@ -35,20 +35,7 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 
 * **Languages**: Marathi, English, Hindi
 
-----
-
-### **Volunteering**
-
-#### **Boston Cyclists’ Union**
-
-**Part-Time Volunteer** *Boston, MA | Sep 2018 - May 2020*
-
-* Organize support for improving bicycle infrastructure in the Boston Area
-* Lobby state legislators to support Non-Motorized-Transport and pedestrian safety bills
-
 ---
-
-<div style="page-break-after: always"></div>
 
 ### **Work Experience**
 
@@ -97,3 +84,14 @@ transit feed data.
 **Architect Trainee** *Gangtok, India | May 2015 - Nov 2015*
 
 * My work at Prashant Pradhan Architects primarily involved drafting drawings for projects, assisting architects with minor design development, making 3D models of projects at intermediate stages, site study and measurement.
+
+----
+
+### **Volunteering**
+
+#### **Boston Cyclists’ Union**
+
+**Part-Time Volunteer** *Boston, MA | Sep 2018 - May 2020*
+
+* Organize support for improving bicycle infrastructure in the Boston Area
+* Lobby state legislators to support Non-Motorized-Transport and pedestrian safety bills
