@@ -7,9 +7,9 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 
 ----
 
-### **Education**
+## **Education**
 
-#### **Northeastern University**
+### **Northeastern University**
 
 **Master of Science Urban Informatics** *Boston, MA | May 2020*
 
@@ -19,7 +19,7 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 * Graphical Visualisation of the Pune City Tree Census 2015 using R, and Adobe Creative Suite
 * **Relevant Courses:** Urban Theory & Science, Big Data for Cities, Advanced Spatial Analysis, Introduction to GIS, Information Design & Visual Analytics
 
-#### **University of Pune**
+### **University of Pune**
 
 **Bachelor of Architecture** *Pune, India | Apr 2016*
 
@@ -29,7 +29,7 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 
 ----
 
-### **Skills**
+## **Skills**
 
 * **Software & Applications**: R, AutoCAD, Adobe Creative Suite, Sketchup, PostgresSQL, ArcGIS, Tableau, Python, QGIS
 
@@ -37,23 +37,23 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 
 ---
 
-### **Work Experience**
+## **Work Experience**
 
-#### **ARGO Labs**
+### **ARGO Labs**
 
 **Civic Data Research Intern** *Remote | Jul 2020 - Present*
 
 * Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
 * Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
 
-#### **Boston Area Research Initiative**
+### **Boston Area Research Initiative**
 
 **Graduate Research Assistant** *Boston, MA | Jan 2019 - May 2020*
 
 * Using ‘R’ to analyze anonymized user data from the Transit app, focusing on the Boston Combined Statistical Area.
 * Comparing transit app data with GTFS realtime data from the MBTA, and developing insights into usage patterns of the transit network as well as the app for predicting commuter behavior.
 
-#### **Massachusetts Bay Transportation Authority**
+### **Massachusetts Bay Transportation Authority**
 
 **Program Evaluation and Implementation Assistant** *Boston, MA | Jul 2019 - Dec 2019*
 
@@ -64,7 +64,7 @@ transit feed data.
 * Understanding transit network coverage of the MBTA by stop and station type.
 * Developing insights with pedestrian and bicycle crash data from the MassDOT IMAPCT crash portal.
 
-#### **Jana Urban Space Foundation**
+### **Jana Urban Space Foundation**
 
 **Associate Urban Designer** *Bangalore, India | Jun 2017 - Mar 2018*
 
@@ -79,7 +79,7 @@ transit feed data.
 * Designed the surface paving pattern for a plaza in central Bangalore
 * Archived and simplified the office file storage system
 
-#### **Prashant Pradhan Architects**
+### **Prashant Pradhan Architects**
 
 **Architect Trainee** *Gangtok, India | May 2015 - Nov 2015*
 
@@ -87,9 +87,9 @@ transit feed data.
 
 ----
 
-### **Volunteering**
+## **Volunteering**
 
-#### **Boston Cyclists’ Union**
+### **Boston Cyclists’ Union**
 
 **Part-Time Volunteer** *Boston, MA | Sep 2018 - May 2020*
 
