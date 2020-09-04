@@ -1,0 +1,361 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"items": [
+			{
+				"awarder": "School of Public Policy and Urban Affairs, Northeastern University",
+				"date": "",
+				"id": "001575e3-4ca6-4274-a465-0de6d2b1f76d",
+				"summary": "",
+				"title": "Graduate Student Leadership Award"
+			}
+		],
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "Master of Science",
+				"endDate": "2020-05-01",
+				"field": "Urban Informatics",
+				"gpa": "",
+				"id": "e887441c-9d8b-4582-8f00-d34149262fa3",
+				"institution": "Northeastern University",
+				"startDate": "2018-09-01",
+				"summary": "* Studying the Effect of public transportation on Somerville’s urban growth using the ‘R’ statistical language\n* Examining Somerville’s Transportation Infrastructure using various spatial analysis tools within ArcGIS\n* Understanding the Social and Infrastructural Factors Relating to Spatial Inequality in Pune, India using the Python programming language\n* Graphical Visualisation of the Pune City Tree Census 2015 using R, and Adobe Creative Suite\n* **Relevant Courses**: Urban Theory & Science, Big Data for Cities, Advanced Spatial Analysis, Introduction to GIS, Information Design & Visual Analytics"
+			},
+			{
+				"degree": "Bachelor of Architecture",
+				"endDate": "2016-04-01",
+				"field": " ",
+				"gpa": "",
+				"id": "f4136d1a-dead-4fff-b75b-148221847ea4",
+				"institution": "University of Pune",
+				"startDate": "2011-06-01",
+				"summary": "* Analyzing the potential of civic institutions as catalysts for urban rejuvenation, MG Road, Gangtok, India\n* Questioning Urban Paradigms - Studying the Changing Face of the Tulshibaug Temple Market District, Pune, India\n* **Relevant Courses:** Urban Design & Planning, Architectural Design"
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Volunteering",
+		"items": [
+			{
+				"id": "3d54b896-1ef2-458d-ad85-626eee57c74b",
+				"name": "Boston Cyclists' Union"
+			}
+		],
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "Fluent",
+				"id": "06f58c45-7238-4cdf-a6e8-2d1bf65689d0",
+				"name": "English"
+			},
+			{
+				"fluency": "Fluent",
+				"id": "a17291fa-f911-4ebd-9ef2-335a7f0b46a6",
+				"name": "Marathi"
+			},
+			{
+				"fluency": "Fluent",
+				"id": "8651ce29-e0b6-471a-9abe-f409b96b64b6",
+				"name": "Hindi"
+			},
+			{
+				"fluency": "Elementary",
+				"id": "4237846c-bf8c-473c-bd65-12ba9de2bf08",
+				"name": "German"
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#4CAF50",
+			"text": "#333333"
+		},
+		"font": "Source Sans Pro",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"skills",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"references",
+					"projects"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				null,
+				[
+					"skills",
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"objective"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"education",
+					"work",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references",
+					"objective"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"awards",
+					"certifications",
+					"hobbies",
+					"projects"
+				],
+				[
+					"education",
+					"work",
+					"references"
+				]
+			]
+		},
+		"template": "pikachu"
+	},
+	"objective": {
+		"body": "",
+		"heading": "Objective",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1596166901298-558710d4c950?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=400",
+	"profile": {
+		"address": {
+			"city": "Greater Boston, MA",
+			"line1": "",
+			"line2": "",
+			"pincode": ""
+		},
+		"email": "aseemvdeodhar@gmail.com",
+		"firstName": "Aseem",
+		"heading": "Resume",
+		"lastName": "Deodhar",
+		"phone": "857.424.9471",
+		"photograph": "",
+		"subtitle": "",
+		"website": "aseemdeodhar.com"
+	},
+	"projects": {
+		"heading": "Projects",
+		"items": [
+			{
+				"date": "",
+				"id": "5bbfb1c0-4157-4ac7-aebe-40d9e76b841a",
+				"link": "",
+				"summary": "",
+				"title": "Developing Transit Corridors for Hospital Workers"
+			},
+			{
+				"date": "",
+				"id": "ff4fa8c2-a4ce-4faa-8e44-13cdc0b39625",
+				"link": "",
+				"summary": "",
+				"title": "Boston Sidewalk Stress Index"
+			},
+			{
+				"date": "",
+				"id": "50340b14-eaed-4aa1-8179-4a2c21ab3d54",
+				"link": "",
+				"summary": "",
+				"title": "Examining Somerville’s Transportation Infrastructure"
+			},
+			{
+				"date": "",
+				"id": "3156bd08-95e9-4286-860d-0f3c72f81524",
+				"link": "",
+				"summary": "",
+				"title": "PERQ-Emissions-Scaling-Project"
+			},
+			{
+				"date": "",
+				"id": "a7b6d240-8fbe-4245-8cdc-8b9c51f25f68",
+				"link": "",
+				"summary": "",
+				"title": "Pune Tree Census 2015"
+			}
+		],
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "243a0b8c-afe7-48c0-8f55-b84f24785ea6",
+				"level": " ",
+				"name": "R"
+			},
+			{
+				"id": "1f6043c1-ce8b-42e0-8f3f-31e6ec19b03b",
+				"level": " ",
+				"name": "SQL"
+			},
+			{
+				"id": "ff152f96-263b-4159-86ce-3c829948ffcc",
+				"level": " ",
+				"name": "ArcGIS"
+			},
+			{
+				"id": "9568aa0f-5055-48f5-a46d-6d77925c2df9",
+				"level": " ",
+				"name": "QGIS"
+			},
+			{
+				"id": "e51f7cc3-bfaf-426f-a333-2f3b1c6cf53c",
+				"level": " ",
+				"name": "Python"
+			},
+			{
+				"id": "85343ef8-13d9-4460-a507-a5e4e4c85a4d",
+				"level": " ",
+				"name": "Tableau"
+			},
+			{
+				"id": "485a285e-57a9-4846-ae7a-7b11904f4775",
+				"level": " ",
+				"name": "Google Analytics"
+			},
+			{
+				"id": "97f9e221-0428-4c4d-8ef1-4dd4382ffae1",
+				"level": " ",
+				"name": "AutoCAD"
+			},
+			{
+				"id": "48eeb998-b290-425f-8a81-2d40db7fadb5",
+				"level": " ",
+				"name": "Adobe Creative Suite"
+			},
+			{
+				"id": "9abc255e-2435-4463-94a7-3f9c06eb2ac2",
+				"level": " ",
+				"name": "Sketchup 3D Modeling"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "ARGO Labs",
+				"endDate": "",
+				"id": "12bd79f3-8f47-44a5-99cd-4bec3bbc8aac",
+				"position": "Civic Data Research Intern",
+				"startDate": "2020-07-01",
+				"summary": "* Using ArcGIS and the R statistical language, developed a ‘Covid-19 Safety Index’ for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.\n* Profiling street morphologies for Indian cities using the OSMNx package in the Python programming\nlanguage",
+				"website": ""
+			},
+			{
+				"company": "Boston Area Research Initiative",
+				"endDate": "2020-05-01",
+				"id": "bc286918-179b-471d-87d3-9a1671603152",
+				"position": "Graduate Research Intern",
+				"startDate": "2019-01-01",
+				"summary": "* Analyzed origin-destination data from the Transit App and vehicle position data from MBTA GTFS feeds, to predict route and mode preferences of commuters across the network.\n* Identify existing and develop new transit corridors between essential workers; homes and work location for swift, isolated movement during pandemics. *developed in the wake of the current Covid-19 crisis*",
+				"website": "https://cssh.northeastern.edu/bari/"
+			},
+			{
+				"company": "Massachusetts Bay Transportation Authority (MBTA)",
+				"endDate": "2019-12-01",
+				"id": "2df7315f-c71f-4e84-a8f9-ac40585eab96",
+				"position": "Program Evaluation & Implementation Assistant",
+				"startDate": "2019-07-01",
+				"summary": "* Assist analysts in the OPMI (Office of Performance Management and Innovation) by writing R-scripts to contribute transit data insights to the MassDOT Tracker performance report.\n* Developing a SQL integrated R-script to compare transit trips with equivalent  single-occupancy car trips  measuring CO2 emissions, time taken, and miles traveled. Sourced data from transit planning and revenue department databases.\n* Using R and Adobe Illustrator, created visualizations of insights on pedestrian and bicycle crash data sourced from the MassDOT IMPACT crash portal to present to the Massachusetts Bicycle and Pedestrian Advisory Board",
+				"website": "https://www.massdottracker.com/wp/?p=3665"
+			},
+			{
+				"company": "Jana Urban Space Foundation",
+				"endDate": "2018-03-01",
+				"id": "9b4fb5f3-d513-4583-9ec1-dd97b4a34424",
+				"position": "Urban Design Trainee to Associate Urban Designer",
+				"startDate": "2016-11-01",
+				"summary": "* Led a team of 3 on research surveys for the redevelopment of a historic retail/wholesale market\n* Redesigned streets in Bangalore to comply with the 'complete streets' design and execution model\n* Part of team to redesign a multi-modal transit exchange terminal in central Bangalore.\n* Surveyed 35 roads in central Bangalore (30 miles) to prepare base drawings for equitable road design\n* Designed and supervised the construction of a plaza in central Bangalore. \n* Archived and simplified the office file storage and naming system.\n* Conducted weekly team-building exercises with co-workers, as well as hosting talks by experts",
+				"website": "https://www.janausp.org/"
+			}
+		],
+		"visible": true
+	}
+}
