@@ -39,9 +39,41 @@ Cambridge, MA 02139 | 857.424.9471 | aseemvdeodhar@gmail.com | www.aseemdeodhar.
 
 ## **Work Experience**
 
+### **MBTA - Massachusetts Bay Transportation Authority**
+
+**Project Manager** *Boston, MA | Nov 2023 - present*
+
+* Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
+* Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
+
+
+### **Drumlin Farm**
+
+**Farm Laborer** *Lincoln, MA | May 2023 - Nov 2023*
+
+* Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
+* Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
+
+
+### **IBI Group (/Arcadis)/**
+
+**Transit Analyst** *Boston, MA | Jul 2022 - May 2023*
+
+* Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
+* Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
+
+
+### **MAPC - Metropolitan Area Planning Council**
+
+**Research Analyst I** *Boston, MA | Nov 2020 - Jul 2022*
+
+* Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
+* Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
+
+
 ### **ARGO Labs**
 
-**Civic Data Research Intern** *Remote | Jul 2020 - Present*
+**Civic Data Research Intern** *Remote | Jul 2020 - Nov 2020*
 
 * Using ArcGIS and the R statistical language, developed a 'Covid-19 Safety Index' for sidewalks in the City of Boston, to develop insights on sidewalk carrying capacity across Boston neighborhoods.
 * Profiling street morphologies for Indian cities using the OSMNx package in the Python programming language
